@@ -1,0 +1,12 @@
+# data
+data/
+C-MSGFC/data/
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.pkl
+
+__pycache__/
+*.pyc
